@@ -37,7 +37,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Readme.md`._
 
 #### 5. Сделайте свой первый коммит
 Откройте програииу Visual Studio Code, а затем нажмите "Open folder..." и откройте папку со склонированным репозиторием
-<img alt="" src="https://user-images.githubusercontent.com/43827421/46571622-d5841480-c980-11e8-8d8f-9702c446e191.png">
+<img alt="" src="https://user-images.githubusercontent.com/43827421/46571647-4e836c00-c981-11e8-9760-b5c59ca4a6e7.png">
 
 Откройте слева на панели файл README.md (это этот файл)
 <img alt="" src="https://user-images.githubusercontent.com/43827421/46571627-f2204c80-c980-11e8-889c-ba2bc3ce1705.png">
