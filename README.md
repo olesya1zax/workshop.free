@@ -37,9 +37,16 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Readme.md`._
 
 #### 5. Сделайте свой первый коммит
 Откройте програииу Visual Studio Code, а затем нажмите "Open folder..." и откройте папку со склонированным репозиторием
+<img alt="" src="https://user-images.githubusercontent.com/43827421/46571622-d5841480-c980-11e8-8d8f-9702c446e191.png">
+
 Откройте слева на панели файл README.md (это этот файл)
+<img alt="" src="https://user-images.githubusercontent.com/43827421/46571627-f2204c80-c980-11e8-889c-ba2bc3ce1705.png">
+
 Измените тестовые данные на свои и сохраните файл (Меню File -> Save)
 
-Откройте программу GitHub Desktop введите название своего первого коммита и сделайте пуш в репозиторий
+Откройте программу GitHub Desktop введите название своего первого коммита и нажмите "Commit to master"
+<img alt="" src="https://user-images.githubusercontent.com/43827421/46571632-02d0c280-c981-11e8-808e-d10a21f4ed97.png">
+
+Задем нажмите "Push origin" этим действием вы сделайте пуш в репозиторий
 
 #### Поздравляю, ты молодец! Ждем тебя на [бесплатном воркшопе 20 октября](https://vk.com/firstdev.free)
